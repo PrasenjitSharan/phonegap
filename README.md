@@ -1,4 +1,4 @@
-backpack
+phonegap
 ========
 Phonegap code examples.
 
